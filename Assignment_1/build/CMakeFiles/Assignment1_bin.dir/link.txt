@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/Assignment1_bin.dir/src/ray1.cpp.o  -o Assignment1_bin 
